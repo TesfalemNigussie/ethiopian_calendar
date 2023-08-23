@@ -107,7 +107,7 @@ class EthiopianDateFormatter {
           .replaceAll("YY", '${ethiopianDate.year}'.substring(2))
           .replaceAll("y", '${ethiopianDate.year}');
       return convertedString;
-    } catch (ex, stack) {
+    } catch (ex) {
       return "";
     }
   }

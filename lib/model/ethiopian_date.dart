@@ -1,5 +1,3 @@
-import 'split_characters.dart';
-
 class EthiopianDateTime extends DateTime {
   @override
   int month;

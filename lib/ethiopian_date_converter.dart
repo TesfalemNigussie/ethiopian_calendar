@@ -216,7 +216,6 @@ class EthiopianDateConverter {
       }
     }
 
-    bool isNight = true;
     int hour = datetime.hour;
 
     var input = DateTime(datetime.year, datetime.month, datetime.day,
