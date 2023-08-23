@@ -1,6 +1,6 @@
 name: ethiopian_calendar
 description: A new Flutter Package that will help to change gregorian calendar to ethiopian calendar and viceversa.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/TesfalemNigussie/ethiopian_calendar
 
 environment:
